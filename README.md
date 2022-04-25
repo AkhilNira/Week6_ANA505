@@ -15,3 +15,10 @@ This algorithm's accuracy was 88.667%
 **SVM Algorithm**
 This script uses the length and width as the two support vectors to define a classification hyperplaned for the different datasets.
 This model's accuracy is the highest at 97.333%
+
+
+SVM accuracy: 97.33%
+
+K Means accuracy: 88.667%
+
+C50 accuracy: 95.556%
